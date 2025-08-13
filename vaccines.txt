@@ -1,0 +1,4 @@
+vaccine_code	vaccine_name	vaccine_minspace
+5001 		Pfizer_2.0		15	
+5002 		Moderna1.0		25
+5003 		AstraZenca		50
